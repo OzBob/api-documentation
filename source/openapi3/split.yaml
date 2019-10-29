@@ -3373,7 +3373,7 @@ paths:
         - Unassigned Agreements
       summary: Get an Unassigned Agreement
       description: Get a single Unassigned Agreement by its reference
-      operationId: GetAgreement
+      operationId: GetUnassignedAgreement
       parameters:
         - name: unassigned_agreement_ref
           in: path
